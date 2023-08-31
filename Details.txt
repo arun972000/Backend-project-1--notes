@@ -1,0 +1,15 @@
+# My Notes
+
+## Important Links
+
+- [GitHub Repository](https://github.com/arun972000/Backend-project-1.git)
+- [Rendered Link](https://backend-project-1-0sbh.onrender.com)
+
+## Section 1: Create
+
+https://backend-project-1-0sbh.onrender.com/createFile - For creating file in "backup" named folder
+
+## Section 2: View
+
+https://backend-project-1-0sbh.onrender.com/viewFiles - To view the names of files loacted in backup folder
+
